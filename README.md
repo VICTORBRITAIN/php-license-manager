@@ -1,4 +1,4 @@
-php-license-manager
+-licensemanager
 ===================
 
 Open Source Software License Manager (PLM) for Propriatory Applications
